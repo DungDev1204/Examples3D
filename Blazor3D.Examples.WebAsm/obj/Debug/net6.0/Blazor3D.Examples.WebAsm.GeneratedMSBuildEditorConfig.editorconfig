@@ -1,0 +1,57 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = Blazor3D.Examples.WebAsm
+build_property.RootNamespace = Blazor3D.Examples.WebAsm
+build_property.ProjectDir = C:\Users\tiend\Downloads\Blazor3D-main\Blazor3D-main\Examples\Blazor3D.Examples.WebAsm\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\tiend\Downloads\Blazor3D-main\Blazor3D-main\Examples\Blazor3D.Examples.WebAsm
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/tiend/Downloads/Blazor3D-main/Blazor3D-main/Examples/Blazor3D.Examples.WebAsm/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tiend/Downloads/Blazor3D-main/Blazor3D-main/Examples/Blazor3D.Examples.WebAsm/Pages/Example01.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhhbXBsZTAxLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tiend/Downloads/Blazor3D-main/Blazor3D-main/Examples/Blazor3D.Examples.WebAsm/Pages/Example02.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhhbXBsZTAyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tiend/Downloads/Blazor3D-main/Blazor3D-main/Examples/Blazor3D.Examples.WebAsm/Pages/Example03.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhhbXBsZTAzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tiend/Downloads/Blazor3D-main/Blazor3D-main/Examples/Blazor3D.Examples.WebAsm/Pages/Example04.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhhbXBsZTA0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tiend/Downloads/Blazor3D-main/Blazor3D-main/Examples/Blazor3D.Examples.WebAsm/Pages/Example05.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhhbXBsZTA1LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tiend/Downloads/Blazor3D-main/Blazor3D-main/Examples/Blazor3D.Examples.WebAsm/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tiend/Downloads/Blazor3D-main/Blazor3D-main/Examples/Blazor3D.Examples.WebAsm/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tiend/Downloads/Blazor3D-main/Blazor3D-main/Examples/Blazor3D.Examples.WebAsm/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-ka2fxg2ial
+
+[C:/Users/tiend/Downloads/Blazor3D-main/Blazor3D-main/Examples/Blazor3D.Examples.WebAsm/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-val0bbp6dp
